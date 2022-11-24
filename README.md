@@ -1,1 +1,1 @@
-# SeenBoard
+# SeenBoard is published
